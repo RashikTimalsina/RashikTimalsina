@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RashikTimalsina
-- 👀 I’m interested in Web-Development.
-- 🌱 I’m currently learning Typescript.
+- 👀 I’m interested in Java.
+- 🌱 I’m currently learning Kotlin.
 - 💞️ I’m looking to collaborate on LinkedIn.
-- ⚡ Fun fact: There are around 700 different programming languages, with more on the way.😎
+- ⚡  Codeiscoding😎
 
 <!---
 RashikTimalsina/RashikTimalsina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
