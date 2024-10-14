@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RashikTimalsina
 - 👀 I’m interested in Java.
-- 🌱 I’m currently learning Kotlin.
 - 💞️ I’m looking to collaborate on LinkedIn.
 - ⚡  Codeiscoding😎
 
