@@ -1,5 +1,5 @@
 <h2 align="left">Hi there 👋</h2>
-<h3 align="left">I am Rashik Timalsina</h3>
+<h3 align="left">I am Rashik Timalsina!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashiktimalsina&label=Profile%20views&color=0e75b6&style=flat" alt="rashiktimalsina" /> </p>
 
 - 🔭 I’m currently studying Bacheolor's in Computer Applications.
