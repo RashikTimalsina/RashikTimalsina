@@ -8,7 +8,7 @@
   
 - 👯 I’m looking to collaborate on LinkedIn. 
 
-- 📫 How to reach me **rashiktimalsina505@gmail.com**
+- 📫 How to reach me: **rashiktimalsina505@gmail.com**
 
 - ⚡ Fun fact: Coding can become an addiction when taken seriously!🚀
 
