@@ -10,6 +10,9 @@
 
 - 📫 How to reach me: **rashiktimalsina505@gmail.com**
 
+- 🌐 Check out my portfolio: [RashikDev.com](https://rashik-dev-portfolio-l1u7vx69c.vercel.app/)
+
+
 - ⚡ Fun fact: Coding can become an addiction when taken seriously!🚀
 
 <h3 align="left">Connect with Me:</h3>
