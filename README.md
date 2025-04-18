@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rashik Timalsina</h1>
-<h3 align="center">Java Backend Developer | Full Stack Enthusiast | Future Software Engineer</h3>
+  <h1 align="center">Hi 👋, I'm Rashik Timalsina</h1>
+<h3 align="center">Java Backend Developer  ||  Full Stack Enthusiast  ||  Future Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Building+Robust+Backends;Mastering+Spring+and+Microservices;Exploring+Full+Stack+Development;Learning+Relentlessly" alt="Typing SVG" />
@@ -76,7 +76,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
 </p>
 
 ---
