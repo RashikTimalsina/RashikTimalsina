@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Building+Robust+Backends;Mastering+Spring+and+Microservices;Exploring+Full+Stack+Development;Learning+Relentlessly" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rashiktimalsina&label=Profile%20views&color=0e75b6&style=flat" alt="rashiktimalsina" />
-</p>
-
 ---
 
 ### 🚀 About Me
