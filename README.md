@@ -8,6 +8,7 @@
 ---
 
 ### 🚀 About Me
+
 - 🎓 BCA Student | Java Backend & Distributed Systems Enthusiast
 - 🔥 Building expertise in scalable backend architectures using Spring Boot and Microservices
 - 🌐 Basic to Intermediate Frontend skills with React.js for full-stack capability
@@ -73,30 +74,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rashiktimalsina&theme=onedark&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashiktimalsina&show_icons=true&locale=en&theme=dark" alt="rashiktimalsina" />
-</p>
-
----
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashiktimalsina&theme=dark" alt="rashiktimalsina" />
 </p>
 
 ---
