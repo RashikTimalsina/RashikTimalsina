@@ -17,7 +17,7 @@
 - 🧩 Using Maven, Git, GitHub Actions for project management and CI/CD
 - 🖥️ Exploring Cloud Fundamentals (AWS basics)
 - 📫 Contact: **rashiktimalsina505@gmail.com**
-<!---->- 🌐 Portfolio: [rashikdev.com](https://rashikdev.vercel.app/)
+<!-- 🌐 Portfolio: [rashikdev.com](https://rashikdev.vercel.app/)-->
 - 🔗 LinkedIn: [Let's Connect](https://www.linkedin.com/in/rashik-timalsina-2757482a5/)
 
 ---
