@@ -1,3 +1,4 @@
+<h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rashik+Timalsina+👋;Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+TypeScript;Building+Scalable+Backend+Systems" alt="Typing SVG" />
 </h1>
 
