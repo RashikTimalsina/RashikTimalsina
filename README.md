@@ -1,5 +1,4 @@
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/7da81aa9-7170-4b96-812b-b8042ac888a5" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/87dbc69a-2cc4-4df4-8ee3-9d54ebed0d35" /><h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rashik+Timalsina+👋;Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+TypeScript;Building+Scalable+Backend+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rashik+Timalsina+👋;Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+TypeScript;Building+Scalable+Backend+Systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
