@@ -1,4 +1,4 @@
-<h1 align="center">
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/7da81aa9-7170-4b96-812b-b8042ac888a5" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/87dbc69a-2cc4-4df4-8ee3-9d54ebed0d35" /><h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rashik+Timalsina+👋;Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+TypeScript;Building+Scalable+Backend+Systems" alt="Typing SVG" />
 </h1>
 
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rashiktimalsina505@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Hire Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Hire Me-4287F5?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -27,7 +27,9 @@
 - 🐳 Familiar with **Docker**, **Maven**, **Git**, and CI/CD workflows
 - ☁️ Exploring **AWS** and **Microservices Architecture**
 - 🟢 **Open to internships and junior developer roles**
-- 📫 Reach me: **rashiktimalsina505@gmail.com**
+- 📫 Contact Email: **rashiktimalsina505@gmail.com**
+- 🔗 LinkedIn: [Let's Connect](https://www.linkedin.com/in/rashik-timalsina-2757482a5/)
+- 🌐 Portfolio: [rashiktimalsina.com](https://rashik-portfolio.vercel.app/)
 
 ---
 
